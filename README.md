@@ -44,7 +44,5 @@ DeepLearning
 
 
 ______
-# 我的公众号————[ 千艺千寻 ]，欢迎关注，共同成长
 
-![微信公众](https://img-blog.csdnimg.cn/ac2fd79b7b0c4e8cb947b46fa1a8004d.png#pic_center)
 
